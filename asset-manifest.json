@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/playlist-creator/static/css/main.5865bea6.css",
+    "main.js": "/playlist-creator/static/js/main.16462777.js",
+    "static/js/787.8427eb89.chunk.js": "/playlist-creator/static/js/787.8427eb89.chunk.js",
+    "static/media/background_photo_desktop.jpeg": "/playlist-creator/static/media/background_photo_desktop.a0687f3fe6f1303a2d18.jpeg",
+    "index.html": "/playlist-creator/index.html",
+    "main.5865bea6.css.map": "/playlist-creator/static/css/main.5865bea6.css.map",
+    "main.16462777.js.map": "/playlist-creator/static/js/main.16462777.js.map",
+    "787.8427eb89.chunk.js.map": "/playlist-creator/static/js/787.8427eb89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5865bea6.css",
+    "static/js/main.16462777.js"
+  ]
+}
